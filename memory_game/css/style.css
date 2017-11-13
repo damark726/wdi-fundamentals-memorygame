@@ -5,20 +5,27 @@ header {
 }
 
 
+
 nav {
 	background-color: #00a6b3;
 	padding: 20px 0 20px 0;
 }
+
+
 
 main {
 	width: 850px;
 	margin: 35px auto;
 }
 
+
+
 body {
 	text-align: center;
 	margin: 0;
 }
+
+
 
 a {
 	text-decoration: none;
@@ -31,9 +38,13 @@ a {
 	border-bottom: 2px solid transparent;
 }
 
+
+
 a:hover {
 	border-color: white;
 }
+
+
 
 h1 {
 	font-family: raleway;
@@ -44,6 +55,8 @@ h1 {
 	margin: 0;
 }
 
+
+
 h2 {
 	font-family: raleway;
 	color: #0d2c40;
@@ -52,15 +65,21 @@ h2 {
 	font-size: 20px;
 }
 
+
+
 p {
 	font-family: "Droid Serif";
 	line-height: 26px;
 	font-size: 18px;
 }
 
+
+
 img {
 	margin: 40px 8px 0 8px;
 }
+
+
 
 footer {
 	text-transform: uppercase;
@@ -72,9 +91,13 @@ footer {
 	font-weight: 500;
 }
 
+
+
 .copyright, .message {
 	font-family: raleway;
 }
+
+
 
 .copyright {
 	float: left;
@@ -83,12 +106,16 @@ footer {
 	padding: 0 0 0 20px;
 }
 
+
+
 .message {
 	float: right;
 
 /* Added some padding because it was all the way to the right edge of the screen */
 	padding: 0 20px 0 0;
 }
+
+
 
 .clearfix:after {
 	visibility: hidden;
@@ -98,6 +125,8 @@ footer {
 	height: 0;
 	font-size: 0;
 }
+
+
 
 .name {
 	color: #f15b31;
